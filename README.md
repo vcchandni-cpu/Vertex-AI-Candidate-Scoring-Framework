@@ -56,7 +56,7 @@ The final, tuned prompt was deployed using the **"Deploy App"** function, demons
 ---
 
 ## 📊 Example Structured Output
-
+![Vertex AI Prompt Configuration](assets/screenshot-B.png)
 The tool consistently generates a structured output.
 ## 🚀 Live Demonstration (GIF)
 
