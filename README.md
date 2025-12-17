@@ -48,21 +48,17 @@ To ensure the match score is consistent and reliable, I rigorously adjusted the 
 
 The final, tuned prompt was deployed using the **"Deploy App"** function, demonstrating a secure and scalable deployment strategy:
 
-## 🖼️ Visual Showcase
 
-*\[**Placeholder for Screenshot A: Vertex AI Studio Prompt Configuration**]*
-*Show a screenshot of the prompt window in Vertex AI Studio, highlighting the System Message, the two Variable Input fields, and the model parameters (Temperature, Top-P) in the sidebar.*
-![Vertex AI Prompt Configuration](assets/screenshot-A-prompt.png)
 ---
 
 ## 📊 Example Structured Output
-![Vertex AI Prompt Configuration](assets/screenshot-B.png)
+![Vertex AI Prompt Configuration](assets/ScreenshotA.png)
 The tool consistently generates a structured output.
-## 🚀 Live Demonstration (GIF)
+## Demonstration 
 
 Watch the tool generate a score instantly upon entering the data:
 
-![AI Scoring Demo GIF](assets/app-demo.gif)
+![AI Scoring Demo ](assets/ScreenshotB.png)
 ---
 ## 🔒 Project Environment Note
 
